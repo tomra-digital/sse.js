@@ -1,4 +1,12 @@
-# sse.js: a server-sent events implementation for node.js #
+# @tomra/sse.js: a server-sent events implementation for node.js #
+
+**This forked package exists primarily because of some missing features we're need at TOMRA, and we don't want to use packages hosted on a git server.**
+
+If the afromentioned features ever gets available in the upstream [sse.js](https://github.com/einaros/sse.js) package, our forked package will be deprecated.
+
+Related PR: https://github.com/einaros/sse.js/pull/25
+
+<hr />
 
 The HTML5 Server-Sent events specification is introduced "to enable servers to push data to Web pages over HTTP or using dedicated server-push protocols".
 
