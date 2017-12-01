@@ -1,17 +1,17 @@
 {
   "author": "Einar Otto Stangvik <einaros@gmail.com> (http://2x.io)",
-  "name": "sse",
-  "version": "0.0.6",
+  "name": "@tomra/sse",
+  "version": "0.0.7",
   "keywords": [
     "real-time",
     "server-sent-events",
     "html5",
     "sse",
-    "messaging" 
+    "messaging"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/einaros/sse.js.git"
+    "url": "https://github.com/tomra-digital/sse.js"
   },
   "engines": {
     "node": ">=0.4.0"
